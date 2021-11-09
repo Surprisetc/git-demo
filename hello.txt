@@ -12,5 +12,5 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
-hello atguigu! hello git! master
-hello atguigu! hello git!
+hello atguigu! hello git! maser
+hello atguigu! hello git! hot-fix
